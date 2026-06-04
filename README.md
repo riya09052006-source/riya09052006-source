@@ -63,11 +63,11 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riya09052006&theme=tokyonight" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riya09052006&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riya09052006-source&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riya09052006&theme=tokyonight" height="140" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riya09052006-source&theme=tokyonight" height="140" alt="Top Languages" />
 </p>
 
 ---
@@ -77,7 +77,7 @@
 *A visual map of my daily coding journey and contributions.*
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riya09052006&theme=tokyo-night&hide_border=true" alt="Patel Riya's Github Activity Graph" width="800" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riya09052006-source&theme=tokyo-night&hide_border=true" alt="Patel Riya's Github Activity Graph" width="800" />
 </p>
 
 ---
@@ -91,7 +91,7 @@
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/riya09052006" target="_blank">
+  <a href="https://github.com/riya09052006-source" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -99,7 +99,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riya09052006&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=riya09052006-source&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
 </p>
 
 <p align="center">
