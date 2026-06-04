@@ -62,7 +62,7 @@
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riya09052006&theme=tokyonight" height="160" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riya09052006-source&theme=tokyonight" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=riya09052006-source&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
 </p>
 
